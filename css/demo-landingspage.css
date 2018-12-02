@@ -1,0 +1,18 @@
+
+
+@import "features/animations.css"; /* Using a string */
+
+  
+/* Fixes */
+
+.fa-long-arrow-alt-right {
+    margin-left: 20px;
+}
+
+
+
+#demo-showcase {
+    padding: 70px 0;
+    background: #F9F9F9;
+    
+}
